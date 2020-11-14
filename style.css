@@ -33,6 +33,7 @@ h2 {
 ul {
  text-align: left !important; 
  font-family: 'PT Serif', serif;
+  list-style-type: none;
   font-size: 18px;
   width: 70vmin;
   line-height: 2;
